@@ -1,0 +1,4 @@
+Results wrt: grid_results/logistic_regression/grid_results_lr_tfidf_v1.csv 
+Grid on: {"penalty": ["none", "l2"], "C": [0.001, 0.01, 0.1, 1, 10, 100, 1000]} 
+Best: 0.7915163591902937 using {'C': 100, 'penalty': 'l2'} 
+

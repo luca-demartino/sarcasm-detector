@@ -1,0 +1,4 @@
+Results wrt: grid_results/decision_tree/grid_results_decision_tree_tfidf_v1.csv 
+Grid on: {"criterion": ["gini", "entropy"], "max_depth": [2, 5, 10, 15, null], "min_samples_split": [2, 5, 10, 20], "min_samples_leaf": [1, 5, 10, 20]} 
+Best: 0.7220510631219922 using {'criterion': 'entropy', 'max_depth': None, 'min_samples_leaf': 1, 'min_samples_split': 10} 
+

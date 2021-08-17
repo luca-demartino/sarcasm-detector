@@ -1,0 +1,4 @@
+Results wrt: grid_results/knn/grid_results_knn_tfidf_v1.csv 
+Grid on: {"n_neighbors": [1, 4, 7, 10, 13, 16, 19, 22, 25, 28], "weights": ["uniform", "distance"]} 
+Best: 0.714562452800088 using {'n_neighbors': 25, 'weights': 'distance'} 
+

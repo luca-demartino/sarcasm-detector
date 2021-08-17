@@ -1,0 +1,4 @@
+Results wrt: grid_results/random_forest/grid_results_random_forest_tfidf_v1.csv 
+Grid on: {"n_estimators": [25, 50, 100], "max_depth": [2, 3, 5, 10, null], "criterion": ["gini", "entropy"], "bootstrap": [true, false]} 
+Best: 0.7651749317559936 using {'bootstrap': False, 'criterion': 'entropy', 'max_depth': None, 'n_estimators': 100} 
+

@@ -1,0 +1,4 @@
+Results wrt: grid_results/knn/grid_results_knn_fasttext_v1.csv 
+Grid on: {"n_neighbors": [1, 4, 7, 10, 13, 16, 19, 22, 25, 28], "weights": ["uniform", "distance"]} 
+Best: 0.5555457574071906 using {'n_neighbors': 28, 'weights': 'uniform'} 
+

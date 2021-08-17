@@ -1,0 +1,4 @@
+Results wrt: grid_results/cnn/grid_results_cnn_embedding_v1.csv 
+Grid on: {"batch_size": [128, 256], "epochs": [20], "neurons_layer_1": [256], "activation": ["relu"], "neurons_layer_2": [128], "neurons_layer_3": [64], "dropout_1": [0.5], "dropout_2": [0.5, 0.3], "learn_rate": [0.0001, 0.001, 0.01], "kernel_size": [5, 3, 26], "neurons_layer_4": [32], "dropout_3": [0.3, 0.1]} 
+Best: 0.6812615791956583 using {'activation': 'relu', 'batch_size': 256, 'dropout_1': 0.5, 'dropout_2': 0.5, 'dropout_3': 0.3, 'epochs': 20, 'kernel_size': 3, 'learn_rate': 0.0001, 'neurons_layer_1': 256, 'neurons_layer_2': 128, 'neurons_layer_3': 64, 'neurons_layer_4': 32} 
+

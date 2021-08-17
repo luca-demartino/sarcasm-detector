@@ -1,0 +1,4 @@
+Results wrt: grid_results/svc/grid_results_svm_tfidf_v1.csv 
+Grid on: {"C": [0.1, 1, 10], "gamma": [0.0001, 0.001, 0.01, 0.1, 1], "kernel": ["rbf", "linear", "poly", "sigmoid"]} 
+Best: 0.7927937719259278 using {'C': 10, 'gamma': 0.1, 'kernel': 'rbf'} 
+

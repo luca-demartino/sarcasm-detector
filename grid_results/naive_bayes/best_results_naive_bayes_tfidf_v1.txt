@@ -1,0 +1,4 @@
+Results wrt: grid_results/naive_bayes/grid_results_naive_bayes_tfidf_v1.csv 
+Grid on: {"alpha": [1, 0.1, 0.01, 0.001, 0.0001, 1e-05]} 
+Best: 0.7899745186831325 using {'alpha': 0.1} 
+
